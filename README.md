@@ -105,7 +105,5 @@ Obsidian uses Markdown for formatting. Here are a few essentials:
 - 🧠 Personal knowledge base or learning journal.
 
 - ✅ Task and to-do tracking with context.
-
-
 ---
 
