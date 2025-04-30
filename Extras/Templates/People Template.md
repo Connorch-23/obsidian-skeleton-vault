@@ -7,7 +7,7 @@ website:
 aliases: 
 phone:
 ---
-tags:: [[👥 People MOC]]
+tags:
 
 # [[<% tp.file.title %>]]
 <% await tp.file.move("/Extras/People/" + tp.file.title) %>

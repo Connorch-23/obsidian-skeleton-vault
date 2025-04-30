@@ -4,17 +4,19 @@ type: meeting
 company: 
 summary: " "
 ---
-tags: [[🗣 Meetings MOC]]
-Daily Note: [[<% tp.date.now("YYYY-MM-DD") %>]]
-Date: <% tp.date.now("YYYY-MM-DD-dddd") %>
-<% tp.file.move("/Extras/Meetings/" + tp.date.now("YYYY-MM-DD") + " " + tp.file.title) %>
-# [[<% tp.date.now("YYYY-MM-DD") + " " + tp.file.title %>]]
+Daily Note: [[<% tp.date.now("MM-DD-YYYY") %>]]
+Date: <% tp.date.now("MM-DD-YYYY-dddd") %>
+<% tp.file.move("/Extras/Meetings/" + tp.date.now("MM-DD-YYYY") + " " + tp.file.title) %>
+# [[<% tp.date.now("MM-DD-YYYY") + " " + tp.file.title %>]]
 
-**Attendees**: 
+## Attendees: 
 - 
 
 ## Agenda/Questions
 - 
 
 ## Notes
--
+- 
+
+## Moving forward
+- 

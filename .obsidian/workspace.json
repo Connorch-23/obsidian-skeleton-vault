@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ea3b9f5e78cf23",
+        "id": "fc121fd979fa21f9",
         "type": "tabs",
         "children": [
           {
-            "id": "4c8c56a328d98914",
+            "id": "675a94bf3ed36cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-02-07.md",
+                "file": "Extras/Meetings/04-30-2025 Perfecting Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-07"
-            }
-          },
-          {
-            "id": "bbc135ded171c90f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KP/Notes on Application Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes on Application Analysis"
+              "title": "04-30-2025 Perfecting Obsidian"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,12 +89,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "95927d11aba5264b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "639c425ed50c4b78",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KP/Notes on Application Analysis.md",
+                "file": "Extras/Meetings/04-30-2025 Perfecting Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes on Application Analysis"
+              "title": "Backlinks for 04-30-2025 Perfecting Obsidian"
             }
           },
           {
@@ -128,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KP/Building an RPA using Power Automate.md",
+                "file": "Extras/Meetings/04-30-2025 Perfecting Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Building an RPA using Power Automate"
+              "title": "Outgoing links from 04-30-2025 Perfecting Obsidian"
             }
           },
           {
@@ -155,10 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KP/Building an RPA using Power Automate.md"
+                "file": "Extras/Meetings/04-30-2025 Perfecting Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Building an RPA using Power Automate"
+              "title": "Outline of 04-30-2025 Perfecting Obsidian"
             }
           }
         ]
@@ -174,14 +172,35 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "daily-notes:Open today's daily note": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "bbc135ded171c90f",
+  "active": "95f85a7427ce0632",
   "lastOpenFiles": [
+    "Extras/Meetings/2025-01-28 Discussion of ideals.md",
+    "Extras/People/Connor Hitchings.md",
+    "Obsidian.md",
+    "Daily Notes/2025-01-28.md",
+    "README.md",
+    "Daily Notes/04-30-2025.md",
+    "Daily Notes/2025-04-30.md",
+    "Extras/Meetings/04-30-2025 Perfecting Obsidian.md",
+    "Projects",
+    "Extras/Meetings/04-30-2025 Learning Obsidian.md",
+    "Extras/Templates/Meeting Template.md",
+    "Personal/Markdown Cheat Sheet.md",
+    "Personal/Dataview.md",
+    "Personal/Templater.md",
+    "Clippings",
+    "Extras/Templates/Project Template.md",
+    "Extras/Templates/People Template.md",
+    "Extras/Templates/Daily Note Template.md",
+    "Attachments/new_pikelogo.jpg",
+    "Attachments/Half dome.webp",
+    "Personal/personal.md",
     "Attachments/Karbon Partners Logo.avif",
     "Attachments/Pasted image 20250204105107.png",
     "Attachments/Pasted image 20250204105040.png",
@@ -198,23 +217,7 @@
     "Extras/People/Beth Rodgers.md",
     "Extras/Meetings/2025-02-07 meeting with beth about finances.md",
     "Extras/Meetings/2025-02-07 Meeting with peter after hunter.md",
-    "Daily Notes/2025-01-31.md",
-    "Daily Notes/2025-02-03.md",
-    "Daily Notes/2025-02-05.md",
-    "Daily Notes/2025-02-04.md",
-    "Daily Notes/2025-02-06.md",
-    "Pike/Optimus.md",
-    "oiejrge.md",
-    "Extras/People/Hunter Davis.md",
-    "KP/One thing to think about.md",
-    "KP/Canoe Intelligence.md",
-    "Extras/Meetings/2025-02-04 QB Goals + Moving forward.md",
-    "Extras/Meetings/2025-02-05 Guy Data review.md",
-    "Extras/Meetings/2025-02-04 Quick meeting.md",
     "Attachments/Pasted image 20250204105055.png",
-    "Asking.md",
-    "Versatile Rd.md",
-    "Extras/Meetings/2025-01-31 Blue Canyon project review.md",
     "Attachments",
     "KP/Integrations",
     "KP/Template Copies",
@@ -222,8 +225,6 @@
     "KP",
     "Extras/MOCs",
     "Extras/Meetings",
-    "Extras/People",
-    "Extras",
-    "Extras/Templates"
+    "Extras/People"
   ]
 }
